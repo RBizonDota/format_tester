@@ -1,0 +1,7 @@
+{
+    "batch": "10_04_2021__18_26_21",
+    "struct_dir": "../structs/",
+    "stat_dir": "../stats/",
+    "dtypes":["json", "xml", "yaml", "toml"],
+    "n_iterations": 11
+}

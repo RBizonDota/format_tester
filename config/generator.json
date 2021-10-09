@@ -1,0 +1,11 @@
+{
+    "desc_dir":"./desc",
+    "struct_dir": "./structs",
+    
+    "layers": [0,1,2,5,10,25,50],
+    "arrays": [0,2,10,25],
+    "string_nums": [0,2,10,20],
+    "string_lens": [1,2,10,25,100],
+    "integer_nums": [1,2,10,25,50],
+    "float_nums": [1,2,10]
+}
